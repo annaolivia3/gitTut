@@ -1,4 +1,4 @@
-| First Header                     | Second Header                           |
-| -------------------------------- | --------------------------------------- |
-| Übersicht                        | Einführung                              |
-| > Die Anfänge mit git und github | > einfaches repo und readme in markdown |
+| First Header                   | Second Header                         |
+| ------------------------------ | ------------------------------------- |
+| Übersicht                      | Einführung                            |
+| Die Anfänge mit git und github | einfaches repo und readme in markdown |
